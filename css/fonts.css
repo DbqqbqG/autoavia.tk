@@ -1,0 +1,41 @@
+/* Код для подключения шрифта в /css/stylename.css */
+
+	@font-face {
+			font-family: "FontinSansRegular";
+			src: url("http://autotransport-tk.ru/fonts/FontinSansRegular/FontinSansRegular.eot");
+			src: url("http://autotransport-tk.ru/fonts/FontinSansRegular/FontinSansRegular.eot?")format("embedded-opentype"),
+			url("http://autotransport-tk.ru/fonts/FontinSansRegular/FontinSansRegular.woff") format("woff"),
+			url("http://autotransport-tk.ru/fonts/FontinSansRegular/FontinSansRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "FontinSansBold";
+			src: url("http://autotransport-tk.ru/fonts/FontinSansBold/FontinSansBold.eot");
+			src: url("http://autotransport-tk.ru/fonts/FontinSansBold/FontinSansBold.eot?")format("embedded-opentype"),
+			url("http://autotransport-tk.ru/fonts/FontinSansBold/FontinSansBold.woff") format("woff"),
+			url("http://autotransport-tk.ru/fonts/FontinSansBold/FontinSansBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "FontinSansItalic";
+			src: url("http://autotransport-tk.ru/fonts/FontinSansItalic/FontinSansItalic.eot");
+			src: url("http://autotransport-tk.ru/fonts/FontinSansItalic/FontinSansItalic.eot?")format("embedded-opentype"),
+			url("http://autotransport-tk.ru/fonts/FontinSansItalic/FontinSansItalic.woff") format("woff"),
+			url("http://autotransport-tk.ru/fonts/FontinSansItalic/FontinSansItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "FontinSansBoldItalic";
+			src: url("http://autotransport-tk.ru/fonts/FontinSansBoldItalic/FontinSansBoldItalic.eot");
+			src: url("http://autotransport-tk.ru/fonts/FontinSansBoldItalic/FontinSansBoldItalic.eot?")format("embedded-opentype"),
+			url("http://autotransport-tk.ru/fonts/FontinSansBoldItalic/FontinSansBoldItalic.woff") format("woff"),
+			url("http://autotransport-tk.ru/fonts/FontinSansBoldItalic/FontinSansBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
